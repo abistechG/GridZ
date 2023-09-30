@@ -1,1 +1,1 @@
-# GridZ
+# Responsive Grid
